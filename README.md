@@ -1,5 +1,5 @@
 # Projeto Inicial
-Site com o objetivo de ajudar os estudantes a planejar seus estudos com o objetivo de passar no ENEM 2025.
+Site com o objetivo de ajudar os estudantes a planejar seus estudos com o objetivo de passar no ENEM 2026.
 Com o auxilio do Chat GPT conseguir a explicaçao da ideia inicial para criar um projeto completo e bem estruturado.  
 
 ---
