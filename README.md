@@ -1,13 +1,13 @@
 # Projeto Inicial
-Site com o objetivo de ajudar os estudantes a planejar seus estudos com o objetivo de passar no ENEM 2026.
+Plataforma com o objetivo de ajudar os estudantes a planejar seus estudos com o objetivo de passar no ENEM do ano em vigor.
 Com o auxilio do Chat GPT conseguir a explicaçao da ideia inicial para criar um projeto completo e bem estruturado.  
 
 ---
 
-### **BRVest: Estrutura do Projeto**
+### **Mapeando o ENEM: Estrutura do Projeto**
 
 #### **1. Objetivo Geral**
-Criar um site e um programa que ofereçam uma plataforma educativa completa para estudantes se prepararem para o ENEM, com foco em conteúdos organizados por áreas de conhecimento, suporte personalizado através de inteligência artificial e ferramentas para planejamento de estudos.
+Criar um site e um programa que ofereçam uma plataforma educativa completa para estudantes se prepararem para o ENEM, com foco em conteúdos organizados por áreas de conhecimento, suporte personalizado através de inteligência artificial (chatbot) e ferramentas para planejamento de estudos.
 
 ---
 
